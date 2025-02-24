@@ -10,6 +10,6 @@
                           category, and more.
   4. Sales Insights: Identified trends such as peak sales periods, most profitable products, and customer buying behavior.
 # Technologies Used:
-  Python: Main programming language.
-  Pandas: Data manipulation and analysis.
-  Matplotlib/Seaborn: Data visualization.
+  1. Python: Main programming language.
+  2. Pandas: Data manipulation and analysis.
+  3. Matplotlib/Seaborn: Data visualization.
